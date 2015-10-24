@@ -1,0 +1,7 @@
+[package]
+name = "tcorp_math_mods"
+version = "0.1.0"
+authors = ["Tyrel Richey <tyrel@tycorp.org>"]
+
+[dependencies]
+num = "0.1.27"
