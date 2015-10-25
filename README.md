@@ -26,5 +26,5 @@ The second function is factors_for<T>(n:T) which returns a vector<T> of all fact
 
 ```rust
 let x: i64 = 100;
-assert_eq!(factors::factors_for(x), ); // Will pass and the return type will be Vec<i64>
+assert_eq!(factors::factors_for(x), vec![(2 as i64), 4, 5, 10, 20, 25, 50]); // Will pass and the return type will be Vec<i64>
 ```

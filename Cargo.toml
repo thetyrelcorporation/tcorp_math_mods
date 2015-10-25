@@ -7,12 +7,10 @@ homepage = "https://github.com/thetyrelcorporation/tcorp_math_mods"
 repository = "https://github.com/thetyrelcorporation/tcorp_math_mods"
 
 license = "MIT/Apache-2.0"
-keywords = ["math", "mathematics", number-theory"]
+keywords = ["math", "mathematics", "number-theory"]
 readme = "README.md"
 
-description = """
-This will be a growing collection of helpful math functions and algorythems all of which will be abstracted into generic types.
-"""
+description = "This will be a growing collection of helpful math functions and algorythems all of which will be abstracted into generic types."
 
 [dependencies]
 num = "0.1.27"
